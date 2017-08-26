@@ -1,0 +1,9 @@
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\bin\Debug\please.exe.config
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\bin\Debug\please.exe
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\bin\Debug\please.pdb
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\obj\Debug\please.Form1.resources
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\obj\Debug\please.Properties.Resources.resources
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\obj\Debug\please.csproj.GenerateResource.Cache
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\obj\Debug\please.exe
+c:\users\anuri\documents\visual studio 2017\Projects\please\please\obj\Debug\please.pdb
+C:\Users\anuri\Documents\Visual Studio 2017\Projects\please\please\obj\Debug\please.csprojResolveAssemblyReference.cache
